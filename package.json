@@ -1,6 +1,6 @@
 {
   "name": "fca-trankhuong",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "My Name's Nguyen Van Huy And I'm From Vietnam I Was Born And Raised In Tra Vinh Currently I'm In Ho Chi Minh City",
   "scripts": {
     "test": "mocha",
