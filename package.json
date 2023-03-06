@@ -1,6 +1,6 @@
 {
   "name": "fca-trankhuong",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My Name's Nguyen Van Huy And I'm From Vietnam I Was Born And Raised In Tra Vinh Currently I'm In Ho Chi Minh City",
   "scripts": {
     "test": "mocha",
@@ -36,7 +36,6 @@
     "dotenv": "^16.0.3",
     "fs-extra": "^11.1.0",
     "https-proxy-agent": "^4.0.0",
-    "data-kaiser": "latest",
     "mqtt": "^4.2.8",
     "npmlog": "^1.2.0",
     "request": "^2.53.0",
